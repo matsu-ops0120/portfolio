@@ -143,6 +143,37 @@ header h1{
 }
 
 }
+
+.tag-list{
+  margin-bottom:40px;
+}
+
+.tag-chip{
+  display:inline-block;
+  background:white;
+  color:#0066cc;
+  border:1px solid #d7e5f5;
+  border-radius:999px;
+  padding:4px 16px;
+  margin:0 8px 8px 0;
+  font-size:.9rem;
+  text-decoration:none;
+  box-shadow:0 4px 12px rgba(0,0,0,0.04);
+}
+
+.post-tags{
+  margin-top:12px;
+}
+
+.post-tags span{
+  display:inline-block;
+  background:#eef4fb;
+  color:#0066cc;
+  border-radius:999px;
+  padding:1px 12px;
+  margin-right:8px;
+  font-size:.8rem;
+}
 </style>
 <script type="application/ld+json">
 {
@@ -180,7 +211,19 @@ header h1{
     </div>
   </div>
 
-  <h2 class="section-title">Latest Posts</h2>
+  
+  <h2 class="section-title">Tags</h2>
+
+  <div class="tag-list">
+      <a class="tag-chip" href="tag-operations-design.html">運用設計</a>
+      <a class="tag-chip" href="tag-incident-response.html">障害対応</a>
+      <a class="tag-chip" href="tag-operations-improvement.html">業務改善</a>
+      <a class="tag-chip" href="tag-tech-trends.html">技術動向</a>
+      <a class="tag-chip" href="tag-career.html">キャリア</a>
+      <a class="tag-chip" href="tag-site-operation.html">サイト運営</a>
+  </div>
+
+<h2 class="section-title">Latest Posts</h2>
 
   <div class="post-grid">
 
@@ -198,6 +241,8 @@ header h1{
         日々の定型業務を棚卸しし、改善を「空いた時間の仕事」ではなく
         業務として回していく進め方を整理しました。
       </div>
+
+      <div class="post-tags"><span>業務改善</span></div>
 
     </a>
 
@@ -217,6 +262,8 @@ header h1{
         エスカレーションの段取りと役割分担をあらかじめ設計しておく考え方を整理しました。
       </div>
 
+      <div class="post-tags"><span>障害対応</span><span>運用設計</span></div>
+
     </a>
 
 
@@ -234,6 +281,8 @@ header h1{
         運用設計の出発点は、関係者から運用要件を引き出すことです。
         聞き取りの工夫と、決める順番を整理しました。
       </div>
+
+      <div class="post-tags"><span>運用設計</span></div>
 
     </a>
 
@@ -254,6 +303,8 @@ header h1{
         構築との違いと、運用設計で決めることを整理しました。
       </div>
 
+      <div class="post-tags"><span>運用設計</span><span>キャリア</span></div>
+
     </a>
 
 
@@ -272,6 +323,8 @@ header h1{
         運用現場に関わる技術動向を整理しました。
       </div>
 
+      <div class="post-tags"><span>技術動向</span></div>
+
     </a>
 
     <a class="post-card" href="first-post.html">
@@ -288,6 +341,8 @@ header h1{
         GitHub PagesとCloudflareを利用して
         独自ドメインを設定した手順をまとめました。
       </div>
+
+      <div class="post-tags"><span>サイト運営</span></div>
 
     </a>
 

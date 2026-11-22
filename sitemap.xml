@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>https://matsu-ops.com/blog/</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://matsu-ops.com/blog/first-post.html</loc>
@@ -35,5 +35,29 @@
   <url>
     <loc>https://matsu-ops.com/privacy-policy.html</loc>
     <lastmod>2026-11-07</lastmod>
+  </url>
+  <url>
+    <loc>https://matsu-ops.com/blog/tag-operations-design.html</loc>
+    <lastmod>2026-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://matsu-ops.com/blog/tag-incident-response.html</loc>
+    <lastmod>2026-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://matsu-ops.com/blog/tag-operations-improvement.html</loc>
+    <lastmod>2026-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://matsu-ops.com/blog/tag-tech-trends.html</loc>
+    <lastmod>2026-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://matsu-ops.com/blog/tag-career.html</loc>
+    <lastmod>2026-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://matsu-ops.com/blog/tag-site-operation.html</loc>
+    <lastmod>2026-11-22</lastmod>
   </url>
 </urlset>
