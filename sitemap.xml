@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>https://matsu-ops.com/blog/</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://matsu-ops.com/blog/first-post.html</loc>
@@ -35,6 +35,10 @@
   <url>
     <loc>https://matsu-ops.com/blog/operations-manual-and-documentation.html</loc>
     <lastmod>2026-11-23</lastmod>
+  </url>
+  <url>
+    <loc>https://matsu-ops.com/blog/monitoring-design.html</loc>
+    <lastmod>2026-11-28</lastmod>
   </url>
   <url>
     <loc>https://matsu-ops.com/privacy-policy.html</loc>
